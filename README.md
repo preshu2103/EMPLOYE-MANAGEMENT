@@ -38,3 +38,9 @@ The Employee Management System is a web-based application designed to facilitate
 - **Additional Features:** Add editing, deletion, sorting options, and detailed employee profiles.
 
 ## Contributors
+
+- [@preshu2103-B PRASHANTH](https://github.com/preshu2103)
+
+## Acknowledgements
+
+- Built with [Bootstrap](https://getbootstrap.com/)
